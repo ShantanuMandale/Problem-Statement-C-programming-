@@ -22,7 +22,7 @@ void strncatX(char *src, char *dest, int iLength)
         }
     }
     
-    // 3 : write '\0' at the end of dest
+  
     *dest = '\0';
 }
 
